@@ -1,0 +1,171 @@
+.Cards_container {
+    width: 100%;
+    background-color: rgb(242, 242, 242);
+  }
+  
+.Cards_container .h1_div {
+    height: 100px;
+    padding: 50px 0px;
+    margin: 0 18%;
+}
+  
+.Cards_container h1 {
+    text-align: left;
+}
+  
+.cards_div {
+    height: 450px;
+    margin: 0 18%;
+    display: flex;
+    margin-top: 3rem;
+}
+  
+.cards {
+    width: 20%;
+    height: 350px;
+}
+  
+  .div_1 .card_1 {
+    background-color: rgb(26, 46, 109);
+    height: 40px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+  }
+  .div_1 .card_2 {
+    height: 270px;
+    background-image: linear-gradient(white, white, rgb(242, 242, 242));
+    overflow: hidden;
+  }
+  
+  .div_1 .card_3 {
+    height: 40px;
+    background-color: rgb(242, 242, 242);
+  }
+  
+  /* div 2 */
+  
+  .div_2 .card_1 {
+    background-color: rgb(242, 242, 242);
+    height: 40px;
+  }
+  .div_2 .card_2 {
+    height: 270px;
+    background-image: linear-gradient(rgb(242, 242, 242), white, white, white);
+    overflow: hidden;
+  }
+  
+  .div_2 .card_3 {
+    height: 40px;
+    background-color: rgb(130, 19, 99);
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+  }
+  
+  /* div 3 */
+  .div_3 .card_1 {
+    background-color: rgb(241, 100, 57);
+    height: 40px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+  }
+  .div_3 .card_2 {
+    height: 270px;
+    background-image: linear-gradient(white, white, rgb(242, 242, 242));
+    overflow: hidden;
+  }
+  
+  .div_3 .card_3 {
+    height: 40px;
+    background-color: rgb(242, 242, 242);
+  }
+  
+  /* div 4 */
+  
+  .div_4 .card_1 {
+    background-color: rgb(242, 242, 242);
+    height: 40px;
+  }
+  .div_4 .card_2 {
+    height: 270px;
+    background-image: linear-gradient(rgb(242, 242, 242), white, white, white);
+    overflow: hidden;
+  }
+  
+  .div_4 .card_3 {
+    height: 40px;
+    background-color: rgb(1, 95, 1);
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+  }
+  
+  /* div 5 */
+  
+  .div_5 .card_1 {
+    background-color: rgb(162, 128, 42);
+    height: 40px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+  }
+  .div_5 .card_2 {
+    height: 270px;
+    background-image: linear-gradient(white, white, rgb(242, 242, 242));
+    overflow: hidden;
+  }
+  
+  .div_5 .card_3 {
+    height: 40px;
+    background-color: rgb(242, 242, 242);
+  }
+  
+  .card_2 p {
+    font-size: x-large;
+    padding: 10px;
+    color: rgb(19, 18, 18);
+  }
+  
+  .card_1 {
+    display: flex;
+    justify-content: center;
+  }
+  .card_3 {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .card_1 .num {
+    height: 55px;
+    width: 55px;
+    margin-top: -22px;
+    border-radius: 50%;
+    background-color: rgb(216, 216, 216);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .card_3 .num {
+    height: 55px;
+    width: 55px;
+    margin-top: 6px;
+    border-radius: 50%;
+    background-color: rgb(216, 216, 216);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .div_1 h2 {
+    color: rgb(26, 46, 109);
+  }
+  .div_2 h2 {
+    color: rgb(130, 19, 99);
+  }
+  .div_3 h2 {
+    color: rgb(241, 100, 57);
+  }
+  .div_4 h2 {
+    color: rgb(1, 95, 1);
+  }
+  .div_5 h2 {
+    color: rgb(162, 128, 42);
+  }
+  

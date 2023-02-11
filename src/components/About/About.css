@@ -1,0 +1,40 @@
+.about{
+    width: 100%;
+    margin: 2rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.about .left{
+    margin-left: 200px;
+    padding: 1rem;
+    width: 550px;
+}
+.about .left p{
+    margin-top: 20px;
+    color: black;
+}
+.about .right{
+    width: 800px;
+}
+.right .img_container{
+    display: grid;
+}
+.right .img{
+    width: 400px;  
+    padding-left: 60px;
+} 
+ 
+.about1{
+    width: 100vw;
+    height: 150px;
+    background-color:#C92C6D;
+    padding: 20px 6rem;
+}
+.about1 h1{
+    padding: 10px;
+    color: rgb(9, 9, 10);
+}
+.about1 p{
+    color: rgb(9, 10, 10) ;
+}
